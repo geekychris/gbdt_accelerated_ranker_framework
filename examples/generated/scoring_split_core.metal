@@ -8,7 +8,7 @@
  *   Item (5..14):  10  [chargeback_rate_90d, refund_rate_30d, dispute_count_90d, fraud_reports_30d, account_age_days, days_since_last_payout, gmv_velocity_pct, txn_velocity_pct, ...]
  * Objective:       binary:logistic
  * Base score:      0.00000037
- * Generated:       2026-03-07T22:38:43Z
+ * Generated:       2026-03-07T23:18:53Z
  *
  * Compile: xcrun -sdk macosx metal -c scoring_split_core.metal -o scoring_split_core.air
  *          xcrun -sdk macosx metallib scoring_split_core.air -o scoring_split_core.metallib
