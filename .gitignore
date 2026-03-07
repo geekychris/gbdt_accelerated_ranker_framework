@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+.venv/
+venv/
+
+# Rust / Cargo
+runtime/target/
+
+# Build output
+build/
+examples/generated/build/
+examples/train/exports/
+examples/train/models/
+examples/train/__pycache__/
+
+# OS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
