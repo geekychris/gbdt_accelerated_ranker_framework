@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="GBDT Accelerated Ranker Framework logo" width="180">
+</p>
+
 # GBDT Accelerated Ranker Framework
 
 A framework for compiling trained XGBoost Gradient Boosted Decision Tree (GBDT) models into hardware-accelerated ranking kernels — targeting NVIDIA CUDA GPUs, Apple Silicon Metal GPUs, and single-threaded C for portability.
